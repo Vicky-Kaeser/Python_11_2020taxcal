@@ -1,4 +1,4 @@
-
+# changes to new repo
 #create a class with respective objects/instances and populate taxable data with them
 class Fed_Tax():
     #create methods/functions that return tax due
