@@ -1,4 +1,8 @@
 # changes to new repo
+# 2nd change
+
+def test_function():
+    pass
 #create a class with respective objects/instances and populate taxable data with them
 class Fed_Tax():
     #create methods/functions that return tax due
