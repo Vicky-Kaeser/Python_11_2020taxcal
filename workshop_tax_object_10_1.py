@@ -126,9 +126,7 @@ class Fed_Tax():
                 braket2 = (float(taxable_income) - max_amnt1) * rate2
                 total_tax = total_tax + braket2
             #print("b2 ", braket2)
-            
-            
-       # print(total_tax)
+         # print(total_tax)
     
         #22% braket3
         if float(taxable_income) > max_amnt2: 
@@ -219,8 +217,6 @@ class Fed_Tax():
                 braket2 = (float(taxable_income) - max_amnt1) * rate2
                 total_tax = total_tax + braket2
             #print("b2 ", braket2)
-            
-            
         #print(total_tax)
     
         #22% braket3
@@ -311,8 +307,6 @@ class Fed_Tax():
                 braket2 = (float(taxable_income) - max_amnt1) * rate2
                 total_tax = total_tax + braket2
             #print("b2 ", braket2)
-            
-            
         #print(total_tax)
     
         #22% braket3
